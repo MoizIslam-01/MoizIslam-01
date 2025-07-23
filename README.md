@@ -35,16 +35,21 @@
 
 <h3>🚀 What I'm Doing</h3>
 <ul>
-  <li>🎮 Working on a Indie game as a small project named "_Lost Beyond Realms_" </li>
+  <li>🎮 Working on a Indie game as a small project named <i>"Lost Beyond Realms"</i></li>
   <li>📚 Currently mastering <strong>Unity , NextJs and React Native</strong></li>
   <li>🎯 <strong>2025 Goals:</strong> Build 15+ projects and learn 5–10 new technologies</li>
 </ul>
 
 <h3>💡 Interests</h3>
-<p>
-  <b>Game Development</b> • <b>Cyber Security</b> • <b>Machine Learning</b> • 
-  <b>Web App Development</b> • <b>Mobile App Development</b>
-</p>
+<ul>
+  <li><b>Game Development 🎮</b></li>
+  <li><b>Cyber Security 🛡️</b></li>
+  <li><b>Machine Learning 🤖</b></li>
+  <li><b>Web App Development 🌐</b></li>
+  <li><b>Mobile App Development 📱</b></li>
+</ul>
+
+
 
 <h3>🛠 Technical Background</h3>
 <ul>
@@ -58,6 +63,46 @@
 <p>
   Gaming • Cinema • Football • Anime • 
 </p>
+
+
+<h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/thumb/expressjslogo.png" alt="Express" width="45" height="45""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="Firebase" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+</p>
+
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=nnf308ckytl0q2sq4vgclib8w&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nnf308ckytl0q2sq4vgclib8w&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile"/>
+  </a>
+</p>
+
+[![Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moizislam-01&show_icons=true&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moizislam-01&layout=compact&theme=shadow_green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Snake animation](https://github.com/Moizislam-01/Moizislam-01/blob/output/github-contribution-grid-snake.svg)
 
 
 
