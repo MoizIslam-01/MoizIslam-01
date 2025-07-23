@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://x.com/Smonarch421">
-  <img height="50" src="https://pngdownload.io/wp-content/uploads/2023/12/X-Logo-Twitter-Logo-Iconic-Social-Media-Brand-Symbol-PNG-Transparent-Recognizable-Emblem-jpg.webp"/>
+  <img height="50" src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?semt=ais_hybrid&w=740"/>
   </a>
   <a href="https://www.instagram.com/moiz_islam.421/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
