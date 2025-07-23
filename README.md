@@ -102,7 +102,7 @@
 [![Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moizislam-01&show_icons=true&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moizislam-01&layout=compact&theme=shadow_green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Snake animation](https://github.com/Moizislam-01/Moizislam-01/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Moizislam-01/Moizislam-01/blob/output/github-snake.svg)
 
 
 
