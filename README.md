@@ -27,7 +27,7 @@
 
 <p align="center">
   <em>
-    Hi! I'm <strong>Moiz Islam</strong>, a passionate <b>Computer Science Student/b> based in <b>Rawalpinid, Pakistan</b>.<br>
+    Hi! I'm <strong>Moiz Islam</strong>, a passionate <b>Computer Science Student</b> based in <b>Rawalpinid, Pakistan</b>.<br>
     I love turning ideas into reality through code and design.
   </em>
 </p>
