@@ -7,6 +7,9 @@
 </h1>
 
 <p align="center">
+  <a href="https://x.com/Smonarch421">
+  <img height="50" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/moiz_islam.421/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
