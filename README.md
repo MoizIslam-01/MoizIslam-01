@@ -27,7 +27,7 @@
 
 <p align="center">
   <em>
-    Hi! I'm <strong>Moiz Islam</strong>, an Undergrad <b>Computer Science Student</b> based at <b>COMSATS university Islamabad, Islamabad</b>.<br>
+    Hi! I'm <strong>Moiz Islam</strong>, an Undergrad <b>Computer Science Student</b> studying in <b>COMSATS university Islamabad, Islamabad</b>.<br>
     I love turning ideas into reality through code and design.
   </em>
 </p>
