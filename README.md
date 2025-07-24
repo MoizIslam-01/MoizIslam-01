@@ -99,7 +99,12 @@
   </a>
 </p>
 
-[![Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moizislam-01&show_icons=true&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moizislam-01&layout=compact&theme=shadow_green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moizislam-01&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moizislam-01&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Moizislam-01)](https://git.io/streak-stats)
 
 
 ![snake gif](https://github.com/Moizislam-01/Moizislam-01/blob/output/github-snake.svg)
