@@ -104,8 +104,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moizislam-01&theme=aura&hide_border=true&include_all_commits=true&layout=compact" width="36%" /> </br>
 </div>
 
+<p align="center">
+  <img src="https://github.com/Moizislam-01/Moizislam-01/blob/output/github-snake.svg" alt="snake gif"/>
+</p>
 
-![snake gif](https://github.com/Moizislam-01/Moizislam-01/blob/output/github-snake.svg)
 
 
 
