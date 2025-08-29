@@ -16,6 +16,9 @@
   <a href="mailto:islammoiz11@gmail.com">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
   </a>
+  <a href="https://www.linkedin.com/in/moiz-islam-36287437b">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  </a>
 </p>
 
 
