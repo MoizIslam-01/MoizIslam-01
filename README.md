@@ -4,6 +4,7 @@
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
+  https://portfolio-moiz-islam.vercel.app/
 </h1>
 
 <p align="center">
@@ -40,7 +41,7 @@
 <ul>
   <li>🎮 Working on a Indie game as a small project named <i>"Lost Beyond Realms"</i></li>
   <li>📚 Currently mastering <strong>Unity , NextJs and React Native</strong></li>
-  <li>🎯 <strong>2025 Goals:</strong> Build 15+ projects and learn 5–10 new technologies</li>
+  <li>🎯 <strong>2026 Goals:</strong> Build 15+ projects and learn 5–10 new technologies</li>
 </ul>
 
 <h3>💡 Interests</h3>
