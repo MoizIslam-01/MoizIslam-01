@@ -34,7 +34,7 @@
 
 <p align="center">
   <em>
-    Hi! I'm <strong>Moiz Islam</strong>, an Undergrad <b>Computer Science Student</b> studying in <b>COMSATS university Islamabad, Islamabad</b>.<br>
+    Hi! I'm <strong>Moiz Islam</strong>, A <b>Computer Science Graduate</b> from b>COMSATS university Islamabad, Islamabad</b>.<br>
     I love turning ideas into reality through code and design.
   </em>
 </p>
@@ -42,6 +42,7 @@
 
 <h3>🚀 What I'm Doing</h3>
 <ul>
+  <li>🏢 Currently working as a Game Developer for <i>"Finova Tech"</i></li>
   <li>🎮 Working on a Indie game as a small project named <i>"Lost Beyond Realms"</i></li>
   <li>📚 Currently mastering <strong>Unity , NextJs and React Native</strong></li>
   <li>🎯 <strong>2026 Goals:</strong> Build 15+ projects and learn 5–10 new technologies</li>
