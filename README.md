@@ -6,7 +6,7 @@
   Let's Connect and have a Chat!💬
   
 </h1>
-<p>
+<p align="center">
   https://portfolio-moiz-islam.vercel.app/
 </p>
 
