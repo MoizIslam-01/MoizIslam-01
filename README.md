@@ -34,7 +34,7 @@
 
 <p align="center">
   <em>
-    Hi! I'm <strong>Moiz Islam</strong>, A <b>Computer Science Graduate</b> from b>COMSATS university Islamabad, Islamabad</b>.<br>
+    Hi! I'm <strong>Moiz Islam</strong>, A <b>Computer Science Graduate</b> from <b>COMSATS university Islamabad, Islamabad</b>.<br>
     I love turning ideas into reality through code and design.
   </em>
 </p>
